@@ -142,8 +142,6 @@ A regularization term (λ) is included, inspired by the hint:
 
 ---
 
-# ✔ Feel Free to Add a Final Section:
-
 # **📌 Skills Demonstrated**
 
 * Linear / Logistic Regression implementation from scratch
