@@ -70,9 +70,9 @@ The model is trained on columns such as:
 * Police Department
 
 Both numeric and categorical features are handled using:
-✔ Manual one-hot encoding
-✔ Manual feature scaling
-✔ No sklearn logistic regression — everything built using NumPy
+* Manual one-hot encoding
+* Manual feature scaling
+* No sklearn logistic regression — everything built using NumPy
 
 ### **Features of the Project**
 
