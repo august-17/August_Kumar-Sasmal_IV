@@ -62,7 +62,6 @@ The model is trained on columns such as:
 
 * City
 * Crime Description
-* Suspect Sex
 * Weapon Used
 * Domain
 * Area
