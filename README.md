@@ -12,7 +12,6 @@ This project implements a **Linear Regression model from scratch (using NumPy)**
 * High Price
 * Low Price
 * Momentum Index
-* Beta Indicator
 * Risk Premium
 * Volatility Factor
 * Technical Score
